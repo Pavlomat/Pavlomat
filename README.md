@@ -12,8 +12,12 @@
 
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 
+[![codewars](https://www.codewars.com/users/Pipison/badges/micro)](https://www.codewars.com/users/username) 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pavlomat&layout=compact)](https://github.com/pavlomat/github-readme-stats)
 
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <!---
 Pavlomat/Pavlomat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
