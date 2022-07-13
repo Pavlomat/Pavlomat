@@ -2,6 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Wind energy project manager and wildlife admirer</h3>
 
+![Metrics](https://metrics.lecoq.io/pavlomat?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FMoscow)
+
 - 👋 Hi, I’m @Pavlomat
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
