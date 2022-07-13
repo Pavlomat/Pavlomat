@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, I'm Matvey 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1 > 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="18"/></h1 > 
 
 <!---
 ![Metrics](https://metrics.lecoq.io/pavlomat?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FMoscow)
