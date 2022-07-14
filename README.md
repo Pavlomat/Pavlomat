@@ -5,13 +5,12 @@
 ![Metrics](https://metrics.lecoq.io/pavlomat?template=classic&base.indepth=false&base.hireable=false&config.timezone=Europe%2FMoscow)
 --->
 
-<h4 align="center">A wind energy project manager who tries to become an iOS programmer</h4>
+<h4 align="center">A wind energy projects manager</h4>
 
 Interested in:
   - iOS programming
   - winter skiing
-  - playing the guitar
-  - nature admirer
+  - rafting
   
 I’m currently learning basics of Xcode and Swift with its derivatives.  
 
