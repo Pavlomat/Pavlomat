@@ -12,7 +12,7 @@ Interested in:
   - winter skiing
   - rafting
   
-I’m currently learning basics of Xcode and Swift with its derivatives.  
+I’m currently learning Xcode and Swift with its derivatives.  
 
 [![codewars](https://www.codewars.com/users/Pipison/badges/micro)](https://www.codewars.com/users/username) 
 
